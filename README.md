@@ -20,3 +20,5 @@ Solution:  Use New York City Citywide Payroll Data which provides salary informa
 - Which Agencies pay the most in terms of Regular Pay and Overtime Pay?
 - Where are these Agencies located?
 Build a dashboard in Tableau to communicate findings and recommendations to an audience of Job Seekers.
+
+Tools used:  New York City Open Data, Python, Jupyter Notebook, Anaconda, Tableau
